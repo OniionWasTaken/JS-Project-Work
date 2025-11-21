@@ -1,0 +1,10 @@
+Work was done by;
+
+1. Nana Adjei-Yeboah Otchere
+2. .
+3. .
+4. .
+5. .
+6. .
+
+Extensive research was done to enable us understand the use of most of the Javascript and CSS commands we used such as JSON.parse and CSS variables.
