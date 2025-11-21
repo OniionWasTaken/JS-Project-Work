@@ -6,6 +6,7 @@ Work was done by;
 4. Kofi Amoako Nkrumah
 5. Chelsy Ohenewaa Ablordeppey
 6. Arnold Mwinkum Dery-Tenzagh
+7. Alex Arhin Sam
 
 Extensive research was done to enable us understand the use of most of the Javascript and CSS commands we used such as JSON.parse and CSS variables.
 Not all group members could get github to work so other group member's machines were used in place of theirs
