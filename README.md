@@ -2,7 +2,7 @@ Work was done by;
 
 1. Nana Adjei-Yeboah Otchere
 2. Richard Pobee Asiedu 
-3. .
+3. Yaa Asantewaa Dankwa
 4. .
 5. .
 6. .
