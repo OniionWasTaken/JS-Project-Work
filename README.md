@@ -8,3 +8,4 @@ Work was done by;
 6. .
 
 Extensive research was done to enable us understand the use of most of the Javascript and CSS commands we used such as JSON.parse and CSS variables.
+Not all group members could get github to work so other group member's machines were used in place of theirs
