@@ -4,7 +4,7 @@ Work was done by;
 2. Richard Pobee Asiedu 
 3. Yaa Asantewaa Dankwa
 4. Kofi Amoako Nkrumah
-5. .
+5. Chelsy Ohenewaa Ablordeppey
 6. .
 
 Extensive research was done to enable us understand the use of most of the Javascript and CSS commands we used such as JSON.parse and CSS variables.
